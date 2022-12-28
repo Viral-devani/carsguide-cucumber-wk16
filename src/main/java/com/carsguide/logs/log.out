@@ -1,0 +1,380 @@
+2022-12-17 13:12:711 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f0e6da2f7bd7ebfc89826e9bd786b9bf)] -> link text: Log in]
+2022-12-17 13:12:808 INFO  LoginPage :42 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f0e6da2f7bd7ebfc89826e9bd786b9bf)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 13:12:148 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (3a87bd2bf97b5ffd9af7bf3d072d29aa)] -> link text: Log in]
+2022-12-17 13:12:235 INFO  LoginPage :42 - Getting text from : [[ChromeDriver: chrome on WINDOWS (3a87bd2bf97b5ffd9af7bf3d072d29aa)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 13:12:497 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e04a7b9c2df6cf6b29c5d07e6238d77f)] -> link text: Log in]
+2022-12-17 14:12:227 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b995515e6a22663d2a337a6607bc5d36)] -> link text: Log in]
+2022-12-17 14:12:800 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (939087c8c3b34adfefe1a2ebc4adfa5c)] -> link text: Log in]
+2022-12-17 14:12:452 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (51331fcd4bee2999a485d6a6c456adf1)] -> link text: Log in]
+2022-12-17 14:12:110 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (2b5e3442a2dbd2e3ba9dd70088d70f03)] -> link text: Log in]
+2022-12-17 14:12:192 INFO  LoginPage :42 - Getting text from : [[ChromeDriver: chrome on WINDOWS (2b5e3442a2dbd2e3ba9dd70088d70f03)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 15:12:351 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (7c05d2e697ba61cb41232f6df7f75955)] -> link text: Log in]
+2022-12-17 15:12:448 INFO  LoginPage :42 - Getting text from : [[ChromeDriver: chrome on WINDOWS (7c05d2e697ba61cb41232f6df7f75955)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 15:12:708 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0eccdff4471328cefbda25e52f5fc152)] -> link text: Log in]
+2022-12-17 15:12:913 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (f1e7f3103cd13558852fefafec2f6836)] -> link text: Log in]
+2022-12-17 15:12:12 INFO  LoginPage :42 - Getting text from : [[ChromeDriver: chrome on WINDOWS (f1e7f3103cd13558852fefafec2f6836)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 15:12:364 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e4332f2dc9333e7173aeab1fe968ab61)] -> link text: Log in]
+2022-12-17 18:12:861 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0b10534a5dc5ff9fab8360d7f1216c1c)] -> link text: Log in]
+2022-12-17 18:12:945 INFO  LoginPage :42 - Getting text from : [[ChromeDriver: chrome on WINDOWS (0b10534a5dc5ff9fab8360d7f1216c1c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 18:12:267 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5e91b98a6e7b514f7152dba92d31cef8)] -> link text: Log in]
+2022-12-17 22:12:999 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8487ce0960a6b4c5061ba9d9ded3e8d2)] -> link text: Log in]
+2022-12-17 22:12:122 INFO  LoginPage :42 - Getting text from : [[ChromeDriver: chrome on WINDOWS (8487ce0960a6b4c5061ba9d9ded3e8d2)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 22:12:574 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (094dd8d47da58ed3e8dc4da1f4ab8f44)] -> link text: Log in]
+2022-12-17 22:12:266 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4e890bd5d7c8f00ea75126a0fc26cf9d)] -> link text: Log in]
+2022-12-17 22:12:370 INFO  LoginPage :42 - Getting text from : [[ChromeDriver: chrome on WINDOWS (4e890bd5d7c8f00ea75126a0fc26cf9d)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-12-17 22:12:806 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (904480bac5370aeb85e7f52424fde725)] -> link text: Log in]
+2022-12-17 22:12:586 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (458e3d09ce2fc13a8090190fb0037394)] -> link text: Log in]
+2022-12-17 22:12:929 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (1d0be42122a831670e0ff1ba934108af)] -> link text: Log in]
+2022-12-17 22:12:957 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9509caefdc1d7fd2d814bf5ef7e3077b)] -> link text: Log in]
+2022-12-21 00:25:698 INFO  HomePage :23 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (76e43e943f51fa7f72326830b68cdfcc)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 10:56:205 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (7af4f12a9155637bc22c0351bcc895e1)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 12:01:401 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (04bc6b5a11dc52dc9ceab7d77a860ebc)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 12:05:799 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (822030ff75b8ce2ddc73ae0c85458dee)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 12:05:624 INFO  HomePage :32 - click on search cars : <Search Cars>
+2022-12-21 12:07:778 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (9f60e0a2c009437d91e4e91437935037)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 12:12:26 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (3ae8235d6e0be03c232445b7cab67ad1)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 12:12:20 INFO  HomePage :32 - click on search cars : <Search Cars>
+2022-12-21 12:46:650 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (db5db9e75714b195c70aeab2c13568f5)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 12:46:774 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 12:47:576 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (add44c3ac3ceca0cad0285382c9eb5b1)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 12:47:765 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 12:47:13 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (98a050eca2930223fb97db220c021c73)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 12:47:181 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 13:14:82 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (816c739ff3d71343ef49c04e0124be68)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 13:17:374 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (aecd22294eda0457236a10b3444b3057)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 13:17:764 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 13:41:196 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (81e641c623d1cfd4b2bd347c57086669)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 13:42:809 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 13:42:47 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 13:42:926 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (977ce070b186417b9f58fbb3178bbb4f)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 13:42:117 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 13:42:319 INFO  HomePage :27 - click on search cars : Audi
+2022-12-21 13:46:422 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (611eb3c4db5fc3f4045ec061b5b8c949)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 13:46:673 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 13:46:847 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 13:47:292 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (2ddf9265e0ee82144d59dd9134f15c78)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 13:47:443 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 13:47:578 INFO  HomePage :27 - click on search cars : Audi
+2022-12-21 13:49:106 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (520d877042333828faaec1df31af113a)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 13:49:418 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 13:49:639 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 13:52:774 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (d8444fe5b52f16e258b942cf7e87a3a1)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 13:52:05 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 13:52:499 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 13:54:396 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (f67259e431278cd05260b12bda69d7d5)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 13:54:174 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 13:54:494 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 13:56:960 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (db7b311ed2616578cf3f9065c296765e)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 13:56:233 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 13:56:601 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 13:58:899 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e4cb3dd81060a32abda6102a1f858eef)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 13:58:163 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 13:58:416 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 14:03:697 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0fc2ed4b6688677f934d16f1d7fcf9f5)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 14:03:294 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 14:04:257 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 14:13:713 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (4e1a33e700620b68cfe71e58028a5136)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 14:13:605 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 14:13:877 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 14:15:824 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (064380501813f95d84899a430174163c)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 14:15:137 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 14:15:406 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 14:18:412 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (1815b792a8cebf58e79c01e7705d06f2)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 14:18:489 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 14:18:887 INFO  HomePage :27 - click on search cars : BMWx
+2022-12-21 14:20:633 INFO  HomePage :28 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (381f767f4fe13aeab8716c0d3e489d92)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 14:20:375 INFO  HomePage :32 - click on search cars : Search Cars
+2022-12-21 14:20:764 INFO  HomePage :27 - click on search cars : BMWx
+2022-12-21 14:29:625 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (11fbe7ceca4524dd0dcf7dbca2815ca3)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 14:30:671 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 14:30:919 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 14:33:574 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c960287e145cef5df4bd10d85028e24a)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 14:33:598 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 14:33:860 INFO  HomePage :27 - click on search cars : BMW
+2022-12-21 14:34:629 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (5dcc87d1c4b75f24e8aa9efbf9ff9280)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 14:34:148 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 14:34:429 INFO  HomePage :27 - click on search cars : Audi
+2022-12-21 15:01:913 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (803c6462933d2e901a8445bd0026d061)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:01:849 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:02:550 INFO  HomePage :41 - click on search cars : Audi
+2022-12-21 15:02:307 INFO  HomePage :45 - click on search cars : A4
+2022-12-21 15:02:775 INFO  HomePage :49 - click on search cars : Perth
+2022-12-21 15:02:869 INFO  HomePage :53 - click on search cars : 15,000
+2022-12-21 15:02:845 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (bda406b5873003f5b5c9d7c8628e999e)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:02:894 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:02:214 INFO  HomePage :41 - click on search cars : Honda
+2022-12-21 15:02:365 INFO  HomePage :45 - click on search cars : Accord
+2022-12-21 15:02:620 INFO  HomePage :49 - click on search cars : All
+2022-12-21 15:02:695 INFO  HomePage :53 - click on search cars : 7,500
+2022-12-21 15:03:349 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (efb72f0b8ebe5fb08082d0ef0dbb64a4)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:03:151 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:03:429 INFO  HomePage :41 - click on search cars : Mitsubishi
+2022-12-21 15:03:816 INFO  HomePage :45 - click on search cars : Lancer
+2022-12-21 15:03:136 INFO  HomePage :49 - click on search cars : New England
+2022-12-21 15:03:209 INFO  HomePage :53 - click on search cars : 40,000
+2022-12-21 15:03:935 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (26a2332c3ef01e55d8ed789fc1d35129)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:03:584 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:03:918 INFO  HomePage :41 - click on search cars : Mini
+2022-12-21 15:04:80 INFO  HomePage :45 - click on search cars : Cooper
+2022-12-21 15:04:879 INFO  HomePage :49 - click on search cars : All
+2022-12-21 15:04:942 INFO  HomePage :53 - click on search cars : 30,000
+2022-12-21 15:04:907 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (84de8f79542bcdd548f23344d68633f3)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:04:954 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:04:389 INFO  HomePage :41 - click on search cars : Maserati
+2022-12-21 15:04:727 INFO  HomePage :45 - click on search cars : 3200
+2022-12-21 15:04:82 INFO  HomePage :49 - click on search cars : Melbourne
+2022-12-21 15:04:156 INFO  HomePage :53 - click on search cars : 90,000
+2022-12-21 15:05:376 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (edc67aa04ff7f45a6ed1b85d5a236f20)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:05:06 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:05:275 INFO  HomePage :41 - click on search cars : Ford
+2022-12-21 15:05:63 INFO  HomePage :45 - click on search cars : Fiesta
+2022-12-21 15:05:856 INFO  HomePage :49 - click on search cars : Sydney
+2022-12-21 15:05:893 INFO  HomePage :53 - click on search cars : 20,000
+2022-12-21 15:13:950 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b2c4a56526b6fe65ece6e5bf70016d19)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:13:331 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:13:695 INFO  HomePage :41 - click on search cars : Audi
+2022-12-21 15:13:938 INFO  HomePage :45 - click on search cars : A4
+2022-12-21 15:13:752 INFO  HomePage :49 - click on search cars : VIC - Melbourne
+2022-12-21 15:13:803 INFO  HomePage :53 - click on search cars : $20,000
+2022-12-21 15:14:847 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (a20844d98bc05ddd09518239164eb7f2)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:14:416 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:14:678 INFO  HomePage :41 - click on search cars : Honda
+2022-12-21 15:14:841 INFO  HomePage :45 - click on search cars : Accord
+2022-12-21 15:14:211 INFO  HomePage :49 - click on search cars : WA - All
+2022-12-21 15:14:283 INFO  HomePage :53 - click on search cars : $7,500
+2022-12-21 15:16:730 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (1db845756102c651eb4aa4eec0134c08)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:16:216 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:17:365 INFO  HomePage :41 - click on search cars : Audi
+2022-12-21 15:17:496 INFO  HomePage :45 - click on search cars : A4
+2022-12-21 15:17:379 INFO  HomePage :49 - click on search cars : VIC - Melbourne
+2022-12-21 15:17:434 INFO  HomePage :53 - click on search cars : $2,500
+2022-12-21 15:20:542 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (2e04fd8090c12f80c9990a1b3b9a0328)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:20:780 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:20:90 INFO  HomePage :41 - click on search cars : Audi
+2022-12-21 15:20:259 INFO  HomePage :45 - click on search cars : A4
+2022-12-21 15:21:305 INFO  HomePage :49 - click on search cars : VIC - Melbourne
+2022-12-21 15:21:353 INFO  HomePage :53 - click on search cars : $2,500
+2022-12-21 15:25:955 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (ed0c33f76d557f6993197adffdcf1650)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:25:09 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:25:259 INFO  HomePage :41 - Select Car Make : Audi
+2022-12-21 15:25:419 INFO  HomePage :45 - Select Model : A4
+2022-12-21 15:26:498 INFO  HomePage :49 - Selection Location : VIC - Melbourne
+2022-12-21 15:26:723 INFO  HomePage :53 - Select Price : $2,500
+2022-12-21 15:30:827 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e4f8030afa9cf43b3dfbc40f625be97e)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:30:140 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:30:785 INFO  HomePage :41 - Select Car Make : Audix
+2022-12-21 15:31:826 INFO  HomePage :45 - Select Model : A4
+2022-12-21 15:31:786 INFO  HomePage :49 - Selection Location : VIC - Melbourne
+2022-12-21 15:31:902 INFO  HomePage :53 - Select Price : $2,500
+2022-12-21 15:32:228 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b40b24ae7d24c3e41be756121f33efdd)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:32:917 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:32:166 INFO  HomePage :41 - Select Car Make : Audi
+2022-12-21 15:32:287 INFO  HomePage :45 - Select Model : A4
+2022-12-21 15:32:918 INFO  HomePage :49 - Selection Location : VIC - Melbourne
+2022-12-21 15:33:32 INFO  HomePage :53 - Select Price : $2,500
+2022-12-21 15:33:330 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (2dab9a899e071f9b04b3bc38d6d0d5ca)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:33:953 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:33:219 INFO  HomePage :41 - Select Car Make : Honda
+2022-12-21 15:33:357 INFO  HomePage :45 - Select Model : Accord
+2022-12-21 15:33:370 INFO  HomePage :49 - Selection Location : WA - All
+2022-12-21 15:33:699 INFO  HomePage :53 - Select Price : $10,500
+2022-12-21 15:33:205 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (9dba4d8f659bab58e722ac236d02c5a3)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:33:17 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:34:467 INFO  HomePage :41 - Select Car Make : Mitsubishi
+2022-12-21 15:34:816 INFO  HomePage :45 - Select Model : Lancer
+2022-12-21 15:34:59 INFO  HomePage :49 - Selection Location : NSW - Riverina
+2022-12-21 15:34:375 INFO  HomePage :53 - Select Price : $4,000
+2022-12-21 15:34:669 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (7d8b788ffbcea1c53b378dbdd8fd7412)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:34:338 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:34:788 INFO  HomePage :41 - Select Car Make : Mini
+2022-12-21 15:34:73 INFO  HomePage :45 - Select Model : Cooper
+2022-12-21 15:34:408 INFO  HomePage :49 - Selection Location : QLD - Central Coast
+2022-12-21 15:34:520 INFO  HomePage :53 - Select Price : $3,000
+2022-12-21 15:35:196 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (41330a148b75e634385e6da1c938287b)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:35:603 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:35:850 INFO  HomePage :41 - Select Car Make : Maserati
+2022-12-21 15:35:106 INFO  HomePage :45 - Select Model : 3200
+2022-12-21 15:35:808 INFO  HomePage :49 - Selection Location : SA - South
+2022-12-21 15:35:902 INFO  HomePage :53 - Select Price : $2,000
+2022-12-21 15:35:115 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (979a06119f4dc96ff58d50cb8904e2bd)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 15:35:287 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 15:35:406 INFO  HomePage :41 - Select Car Make : Ford
+2022-12-21 15:35:852 INFO  HomePage :45 - Select Model : Fiesta
+2022-12-21 15:35:391 INFO  HomePage :49 - Selection Location : VIC - All
+2022-12-21 15:35:482 INFO  HomePage :53 - Select Price : $2,000
+2022-12-21 16:02:599 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (980b52b2a90ecb390f7f551075465470)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 16:02:61 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 16:02:351 INFO  HomePage :46 - Select Car Make : Audi
+2022-12-21 16:02:886 INFO  HomePage :50 - Select Model : A4
+2022-12-21 16:02:141 INFO  HomePage :54 - Selection Location : VIC - Melbourne
+2022-12-21 16:02:356 INFO  HomePage :58 - Select Price : $2,500
+2022-12-21 16:04:823 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (d2050036127cca514b5fb31e492ca1fd)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 16:05:677 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 16:05:876 INFO  HomePage :46 - Select Car Make : Audi
+2022-12-21 16:05:42 INFO  HomePage :50 - Select Model : A4
+2022-12-21 16:05:671 INFO  HomePage :54 - Selection Location : VIC - Melbourne
+2022-12-21 16:05:778 INFO  HomePage :58 - Select Price : $2,500
+2022-12-21 16:11:715 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e451bbd92c9ab1d550ce1625c7b87cb8)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 16:11:299 INFO  HomePage :33 - click on search cars : Search Cars
+2022-12-21 16:11:354 INFO  HomePage :46 - Select Car Make : Audi
+2022-12-21 16:11:634 INFO  HomePage :50 - Select Model : A4
+2022-12-21 16:11:725 INFO  HomePage :54 - Selection Location : VIC - Melbourne
+2022-12-21 16:11:906 INFO  HomePage :58 - Select Price : $2,500
+2022-12-21 16:11:885 INFO  HomePage :68 - Verification is successful : [[ChromeDriver: chrome on WINDOWS (e451bbd92c9ab1d550ce1625c7b87cb8)] -> xpath: //div[@id = 'car_dropdowns_c1']//a]
+2022-12-21 21:19:373 INFO  HomePage :29 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (089a2a3ca6a0990fa0de1ccd9333f85b)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 22:58:563 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (8b0296ee4ebe2c4fe8464eecede45147)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 22:59:646 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (38573bc97ae0019dc36b0bda25f9f3ff)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 22:59:776 INFO  HomePage :37 - click on search cars : Search Cars
+2022-12-21 22:59:18 INFO  HomePage :50 - Select Car Make : Audi
+2022-12-21 23:00:222 INFO  HomePage :54 - Select Model : A4
+2022-12-21 23:00:304 INFO  HomePage :58 - Selection Location : VIC - Melbourne
+2022-12-21 23:00:474 INFO  HomePage :62 - Select Price : $2,500
+2022-12-21 23:00:937 INFO  HomePage :72 - Verification is successful : [[ChromeDriver: chrome on WINDOWS (38573bc97ae0019dc36b0bda25f9f3ff)] -> xpath: //div[@id = 'car_dropdowns_c1']//a]
+2022-12-21 23:05:856 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (17b8bb6e51b8a08caf4b1cbf0ec961e3)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:05:427 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:17:306 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b0a575a7a1192a0f760ab20f8143f5f8)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:17:434 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:19:552 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (10f92849838d46f000b4106a5bc84175)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:19:965 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:23:288 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (faefd4d0c9bee65494961eba07c1ccb5)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:24:585 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:27:526 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (70d70e2d1b76d119c1157d9b6ac93e21)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:27:317 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:27:565 INFO  HomePage :46 - Select Car Make : Audi
+2022-12-21 23:28:739 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (5d83723ab6fd2cb0beba90ad49c9fce2)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:28:930 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:28:103 INFO  HomePage :46 - Select Car Make : Audi
+2022-12-21 23:38:11 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b6314265d864b898f4a8ec0373a02eda)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:38:602 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:38:883 INFO  HomePage :46 - Select Car Make : Audi
+2022-12-21 23:38:67 INFO  HomePage :54 - Select Model : A4
+2022-12-21 23:38:225 INFO  HomePage :58 - Selection Location : VIC - Melbourne
+2022-12-21 23:38:416 INFO  HomePage :62 - Select Price : $2,500
+2022-12-21 23:39:97 INFO  HomePage :72 - Verification is successful : [[ChromeDriver: chrome on WINDOWS (b6314265d864b898f4a8ec0373a02eda)] -> xpath: //div[@id = 'car_dropdowns_c1']//a]
+2022-12-21 23:39:288 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (10def3202baec2ffe567f6cba400e682)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:39:313 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:39:501 INFO  HomePage :46 - Select Car Make : Honda
+2022-12-21 23:39:630 INFO  HomePage :54 - Select Model : Accord
+2022-12-21 23:39:713 INFO  HomePage :58 - Selection Location : WA - All
+2022-12-21 23:39:893 INFO  HomePage :62 - Select Price : $10,000
+2022-12-21 23:39:154 INFO  HomePage :72 - Verification is successful : [[ChromeDriver: chrome on WINDOWS (10def3202baec2ffe567f6cba400e682)] -> xpath: //div[@id = 'car_dropdowns_c1']//a]
+2022-12-21 23:39:518 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (f702ff91117dead8b886f67033d4ca32)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:39:851 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:40:251 INFO  HomePage :46 - Select Car Make : Mitsubishi
+2022-12-21 23:40:791 INFO  HomePage :54 - Select Model : Lancer
+2022-12-21 23:40:217 INFO  HomePage :58 - Selection Location : NSW - Riverina
+2022-12-21 23:40:357 INFO  HomePage :62 - Select Price : $5,000
+2022-12-21 23:40:134 INFO  HomePage :72 - Verification is successful : [[ChromeDriver: chrome on WINDOWS (f702ff91117dead8b886f67033d4ca32)] -> xpath: //div[@id = 'car_dropdowns_c1']//a]
+2022-12-21 23:40:239 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (fcb7fa71ea0ae4f94851854f4112f4cc)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:40:685 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:40:69 INFO  HomePage :46 - Select Car Make : Mini
+2022-12-21 23:40:383 INFO  HomePage :54 - Select Model : Cooper
+2022-12-21 23:40:753 INFO  HomePage :58 - Selection Location : QLD - Central Coast
+2022-12-21 23:40:887 INFO  HomePage :62 - Select Price : $3,000
+2022-12-21 23:40:970 INFO  HomePage :72 - Verification is successful : [[ChromeDriver: chrome on WINDOWS (fcb7fa71ea0ae4f94851854f4112f4cc)] -> xpath: //div[@id = 'car_dropdowns_c1']//a]
+2022-12-21 23:40:300 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (dd630a866014da6a87622f1e4fa3a228)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:41:332 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:41:598 INFO  HomePage :46 - Select Car Make : Maserati
+2022-12-21 23:41:880 INFO  HomePage :54 - Select Model : 3200
+2022-12-21 23:41:821 INFO  HomePage :58 - Selection Location : SA - South
+2022-12-21 23:41:926 INFO  HomePage :62 - Select Price : $2,000
+2022-12-21 23:41:280 INFO  HomePage :72 - Verification is successful : [[ChromeDriver: chrome on WINDOWS (dd630a866014da6a87622f1e4fa3a228)] -> xpath: //div[@id = 'car_dropdowns_c1']//a]
+2022-12-21 23:41:981 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0850db0d0ef41377e8dea15e5d256460)] -> xpath: //a[text()='buy + sell']]
+2022-12-21 23:41:635 INFO  HomePage :37 - click on search cars : Used
+2022-12-21 23:41:849 INFO  HomePage :46 - Select Car Make : Ford
+2022-12-21 23:41:346 INFO  HomePage :54 - Select Model : Fiesta
+2022-12-21 23:41:953 INFO  HomePage :58 - Selection Location : VIC - All
+2022-12-21 23:41:34 INFO  HomePage :62 - Select Price : $2,000
+2022-12-21 23:41:882 INFO  HomePage :72 - Verification is successful : [[ChromeDriver: chrome on WINDOWS (0850db0d0ef41377e8dea15e5d256460)] -> xpath: //div[@id = 'car_dropdowns_c1']//a]
+2022-12-22 00:24:201 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c5099f1c2bc6826439273f196f391fce)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 00:24:602 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 00:24:436 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (3afe1e2d094cf613ddb04d354ef27a5c)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 00:25:953 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 00:28:311 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (b6f5d2cc2d443876dfcdb42398dc6c77)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 00:28:118 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 00:33:752 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (dd0f67bce9b0a816e498bdf34282e16c)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 00:33:144 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 00:34:302 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (ea2a47b8f2a43db20d0d82a492080a96)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 00:34:685 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 00:34:240 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (6e5a89a67c1f9ef809650692346ce5de)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 00:34:462 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 00:34:591 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (a4c4e460fd07043f8d36f813b2868399)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 00:34:14 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 00:35:480 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (de4f14a49afbb3f7bf1525c78fff8860)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 00:35:263 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 00:35:916 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c1c49ce0d17f2ca61e6cfbd69676380b)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 00:35:101 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 00:37:905 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (ea626dfb737d9546c2c7ce6056344879)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 00:37:207 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 19:22:978 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c16bb90210c3a502bbf70e3f6b467c52)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 19:22:172 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 19:22:23 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (5a1f65eb02aa17a78395a806eff04368)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 19:22:108 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 19:25:227 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (016a2e05eca2eded39b59865d87e9186)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 19:25:908 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 19:25:393 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (5b2615f309ffde6333cc156aa032934c)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 19:25:401 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 19:28:783 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (edf89cd256781f08a65f089f4c89ba84)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 19:28:49 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 19:28:734 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (981d672e186ed41acfbcfaf397e205c4)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 19:28:735 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 20:00:378 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (16c4df0c6577f2eee0fac4e42153d011)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 20:00:770 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 20:01:19 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (39eec0023f75393fcb534720bd2321d4)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 20:01:318 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 20:02:435 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (88ff059627012a2bface6be6e260335e)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 20:02:914 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 20:07:291 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (6000ca6b33cb1f1ffd8b246d773eb5c1)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 20:07:918 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 20:09:85 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (95dcd693160bf539435bb1a5066830aa)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 20:09:526 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 20:11:598 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (2b6039808c662a55e9f0952fad9efc59)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 20:11:67 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 20:15:554 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (970cac59b1ac485a7682ec5377e5427d)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 20:15:257 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 20:21:83 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0bc824f28dab3d3ae859306454c45216)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 20:21:876 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 20:25:422 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (3c6449a1c7a986ed3b465a4771488314)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 20:25:106 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 20:25:161 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (66bf9f09009aa5ba223a63d82d5b3d56)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 20:25:895 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 21:05:834 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (3102c3f97612561d5f0bbf81e5102e54)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 21:05:415 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-22 21:05:53 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (d03bb412870a092ce04e82d2a041669f)] -> xpath: //a[text()='buy + sell']]
+2022-12-22 21:05:598 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 12:15:969 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (05100313c320ec410a12f08b39d442ce)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 12:15:956 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 12:15:785 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (326dc241fe99b7c54095335f521b7f47)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 12:15:62 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 12:18:672 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0306c5c67f586c16604ee14f1c78b336)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 12:18:490 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 12:18:739 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (8674d13c84bb3fa7ad42decd56c72e1a)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 12:19:58 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 12:22:458 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (e69a0a7267fc4181bd467565cfb5dab7)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 12:22:796 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 12:23:149 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (4fe755f9564ed9800b4ff98f140e4ff2)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 12:23:412 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:13:527 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (4ca3c2f2b0dc988502d72efd9a6b8db4)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:13:16 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:13:188 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0394bd5d84b2f44cc29b429752fb904a)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:14:694 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:19:930 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (f4c361e556112bca2553fc525b9866a7)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:19:469 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:19:206 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (a31e9c07628f993713827935863f608d)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:19:767 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:24:725 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (baace7a40d90b88ac26e5fbac9628137)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:24:373 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:24:761 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (c25ae4d47ddaf70df1976783c7a7d9a4)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:24:821 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:30:839 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (9e265bf70c0e46256316a817bd6b7ab2)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:30:855 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:30:868 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (0aee4a79e4e71ac8cac147a298d53da4)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:30:257 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:30:237 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (9c918e2aac6b2cda92d5db45704250f4)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:31:41 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:31:824 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (7fa865466d693b214ed00bf4ab1b55ed)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:31:850 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:31:380 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (dbad54c3e208376ab60f7116c914834a)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:31:791 INFO  HomePage :37 - click on search cars : Find a Dealer
+2022-12-23 13:32:776 INFO  HomePage :33 - mouse hover on buy and sell : [[ChromeDriver: chrome on WINDOWS (ad6fec25c830ac0b4382dac523ba787b)] -> xpath: //a[text()='buy + sell']]
+2022-12-23 13:32:737 INFO  HomePage :37 - click on search cars : Find a Dealer
